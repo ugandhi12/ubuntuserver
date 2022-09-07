@@ -1,3 +1,6 @@
 Hello welcome to the github server
 
 Learn how to send the data from ec2 to github using git push command
+
+
+Learn how to send the data from github to ec2 using pull command
